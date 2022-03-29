@@ -1,0 +1,22 @@
+{
+  "name": "playground-npm-registry",
+  "version": "1.0.0",
+  "description": "A project to learn https://www.npmjs.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -c jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slitviachenko/playground-npm-registry.git"
+  },
+  "author": "Serhii Litviachenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slitviachenko/playground-npm-registry/issues"
+  },
+  "homepage": "https://github.com/slitviachenko/playground-npm-registry#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
