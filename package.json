@@ -1,5 +1,5 @@
 {
-  "name": "playground-npm-registry",
+  "name": "@litviachenko/playground-npm-registry",
   "version": "1.0.0",
   "description": "A project to learn https://www.npmjs.com/",
   "main": "index.js",
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/slitviachenko/playground-npm-registry#readme",
   "devDependencies": {
     "jest": "^27.5.1"
-  }
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
 }
